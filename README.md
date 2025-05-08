@@ -1,16 +1,26 @@
-# appforhelp
+# Shopping Info App 🛒
 
-A new Flutter project.
+A Flutter-based shopping information app that displays product listings, categories, and item details — similar to an e-commerce catalog.
 
-## Getting Started
+=> 🔧 Technologies Used
+- Flutter & Dart
+- Firebase (for real-time updates)
+- Riverpod (state management)
 
-This project is a starting point for a Flutter application.
+=> 📱 Features
+- Product listing page
+- View product details
+- User-friendly UI
+- Place order
+- Add favorite item
+- Add to cart item
+- Leave or Update the review 
+- Add address
+- Make payment Stripe or cash on delivery
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+=> 🚀 Getting Started
+```bash
+flutter pub get
+flutter run
+=> 👩‍💻 Developed by
+ Minali Dabhi
