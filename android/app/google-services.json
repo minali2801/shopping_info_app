@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598593522771",
+    "project_id": "my-app-fa4eb",
+    "storage_bucket": "my-app-fa4eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598593522771:android:0b094b9cdfc2f05b858aa6",
+        "android_client_info": {
+          "package_name": "com.example.appforhelp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6DFDyPWbumodkt0JwBAgRx-wMWFvJt3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
